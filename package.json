@@ -1,0 +1,23 @@
+{
+  "name": "refinedgulp",
+  "version": "1.0.0",
+  "description": "This is my task on Automation Using Gulp",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Theodore Kelechukwu Onyejiaku",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2",
+    "run-sequence": "^2.2.1"
+  }
+}
